@@ -1,0 +1,6 @@
+target/
+*.iml
+.idea/
+src/main/webapp/META-INF/
+src/main/webapp/WEB-INF/lib/
+src/main/webapp/WEB-INF/classes/
